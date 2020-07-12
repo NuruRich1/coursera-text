@@ -1,0 +1,77 @@
+body{
+  background-color: #ccffcc;
+}
+h1{
+  text-align: center;
+color: gold;
+text-transform: uppercase;
+}
+.navbar{
+  background-color:#f6b319;
+  padding: 0px;
+
+}
+#chicken
+  { color: darkblue;
+border: 2PX solid black; 
+padding: 5px;
+box-sizing: border-box;
+margin :30px;
+width: ;
+height:;
+background-color: pink; 
+float: left;
+font-size: 17px;
+
+}
+h3{color: black;
+border: 2PX solid black; 
+padding: 5px;
+box-sizing: border-box;
+text-align: center;
+background-color: #cc0066;
+}
+.navbar-brand{
+  text-transform: uppercase;
+  margin: 10px;
+  
+}
+.nav-item{
+  text-align: center;
+}
+.navbar-collapse .collapse .show{ 
+  background-color: white;
+
+}
+.navbar-nav .mr-auto{
+  background-color: white;
+}
+@media(max-width: 767px){
+#navbarSupportedContent{
+  background-color: white;
+}}
+button{
+  margin-top: 9px;
+}
+@media(min-width: 768px){
+  .navbar-toggler .navbar-toggler-right{
+    display: none;}
+    #navbarSupportedContent {
+      display: ;
+    }
+    .navbar-collapse{
+      display: none;
+    }
+button{
+  display: none;}
+
+}
+@media(min-width: 992px){
+  .navbar-toggler .navbar-toggler-right{
+    display: none;}
+    #navbarSupportedContent {
+      display: none ;
+    }
+   .nav-item{
+      display: none;
+      }}
